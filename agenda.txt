@@ -1,6 +1,0 @@
-program selanjutnya:
-1. read view menu input data ppdb
-2. delete menu input data ppdb
-
-crud tanpa action from ""
-menambahkan swetalert disetiap fitur simpan, hapus, 
