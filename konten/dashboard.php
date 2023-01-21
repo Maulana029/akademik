@@ -47,7 +47,7 @@
                     <div class="small-box bg-info">
                         <div class="inner">
                             <h3><?= $jml_data_ppdb?></h3>
-                            <p>Jumlah Peserta Didik Baru</p>
+                            <p>Jumlah Calon Peserta Didik Baru</p>
                         </div>
                         <div class="icon">
                             <i class="fas fa-user-graduate"></i>
