@@ -245,7 +245,7 @@
       <img src="../dist/img/background.jpg" alt="form-login">
       <div class="paragraf">
         Penerimaan Peserta Didik Baru <br>
-        SMP Attaqwa 05 Kebalen
+        SMK Attaqwa 05 Kebalen
       </div>
       <p style="font-size: 12px;">Jl. KH. Ahmad Tajuddin (Warung Ayu) Rt.005/003 Kelurahan Kebalen <br> Kecamatan Babelan Kabbupaten Bekasi Provinsi Jawa Barat</p>
     </div>
