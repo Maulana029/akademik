@@ -150,7 +150,7 @@
 </form>
 <?php } ?>
 
-<form method="post">
+<form action="?hal=add kolektif ppdb" method="post">
 <div class="modal fade" id="modal-lg">
     <div class="modal-dialog modal-lg">
         <div class="modal-content">
